@@ -1,3 +1,25 @@
+h1 {
+  text-align: center;
+  border-bottom: 1px dotted black;
+  padding-bottom: 10px;
+}
 .definition {
   display:none;
 }
+
+.term {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.definition {
+  font-style: italic;
+}
+
+/*
+.card {
+  width: 200px;
+  border: 1px solid black;
+  padding: 10px;
+}
+*/
