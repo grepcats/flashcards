@@ -3,18 +3,19 @@ h1 {
   border-bottom: 1px dotted black;
   padding-bottom: 10px;
 }
+
 .definition {
   display:none;
+  font-size: 1.25em;
+  font-style: italic;
 }
 
 .term {
   font-size: 1.5em;
-  text-align: center;
 }
 
-.definition {
-  font-style: italic;
-}
+
+
 
 /*
 .card {
