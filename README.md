@@ -15,8 +15,8 @@ This website includes a list of Programming terms. When the user clicks a term t
 
 OR
 Access URL
-* https://grepcats.github.io/catvdog
-* https://daliaramos,github.io/cat-vs-dog
+* https://grepcats.github.io/flashcards
+* https://daliaramos.github.io/flashcards
 
 ## Support and contact
 
