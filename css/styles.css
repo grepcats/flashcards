@@ -4,14 +4,26 @@ h1 {
   padding-bottom: 10px;
 }
 
+.card {
+  width: 75%;
+  margin: auto;
+}
+
 .definition {
-  display:none;
+  display: none;
   font-size: 1.25em;
   font-style: italic;
+  margin:auto;
+  width: 90%;
+  padding-bottom: 15px;
 }
 
 .term {
   font-size: 1.5em;
+  text-align: center;
+  color: darkgreen;
+  border: 1px solid black;
+  border-radius: 20px;
 }
 
 
