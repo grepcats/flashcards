@@ -4,6 +4,15 @@ h1 {
   padding-bottom: 10px;
 }
 
+h2.close-cards {
+  display:none;
+}
+
+h2 {
+  text-align: center;
+}
+
+
 .card {
   width: 75%;
   margin: auto;
